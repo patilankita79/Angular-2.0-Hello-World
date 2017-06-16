@@ -9,7 +9,8 @@ Angular 2.0 with TypeScript, Implementing <hello-world> custom element using Ang
    # Open command prompt <br/>
    # Type command => npm install -g typescript <br />
 <hr>   
-Running the project <br/>
-   # Open command prompt, type command => npm install <br/>
+<b>Running the project </b> <br/>
+   # Open command prompt, go to project containing folder, type the command => npm install <br/>
+   After all the dependencies are downloaded, <br/>
    #type command => npm start
 
